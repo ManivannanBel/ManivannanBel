@@ -1,6 +1,6 @@
 ### Hi there, I'm Manivannan
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manivannanbel.github.io/profile)
+[![Website](https://img.shields.io/website?label=manivannanbel.github.io/profile&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://manivannanbel.github.io/profile)
 
 ## I'm a self taught MERN Stack Developer, Game Developer and VR Developer.
 
