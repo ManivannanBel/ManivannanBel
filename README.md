@@ -1,7 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Manivannan</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 - 👨‍💻 You can also check out my portfolio at [https://manivannanbel.github.io/profile/](https://manivannanbel.github.io/profile/)
 
 - 📫 How to reach me **manivannan.belfazt@gmail.com**
