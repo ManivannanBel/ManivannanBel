@@ -14,7 +14,7 @@
 <h4>Programming Languages</h4>
 <ol>
   <li>Java</li>
-  <li>Javascript(ES6)</li>
+  <li>Javascript(ES6)/Typescript</li>
   <li>C#</li>
 </ol>
 <h4>Databases</h4>
@@ -30,6 +30,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Docker</li>
+  <li>Progressive Web App</li>
   <li>Game Development</li>
 </ol>
 
