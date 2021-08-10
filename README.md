@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Manivannan</h1>
+<h1 align="center">Hello there 👋, I'm Mani</h1>
 
 - 👨‍💻 You can also check out my portfolio at [https://manivannanbel.github.io/profile/](https://manivannanbel.github.io/profile/)
 
